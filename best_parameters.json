@@ -1,0 +1,14 @@
+{
+  "best_params": {
+    "max_depth": null,
+    "min_samples_leaf": 1,
+    "min_samples_split": 2,
+    "n_estimators": 100
+  },
+  "best_cv_score_malignant_f1": 0.9506035992992515,
+  "best_cv_score_mean": 0.9506035992992515,
+  "best_cv_score_std": 0.02299043052068381,
+  "cv_folds": 5,
+  "scorer": "f1_score (pos_label=0, malignant)",
+  "random_state": 42
+}

@@ -1,0 +1,5 @@
+Model,Accuracy,Precision (malignant),Recall (malignant),F1 (malignant),ROC-AUC,Malignant Recall,Fit Time (s)
+LogisticRegression,0.9825,0.9762,0.9762,0.9762,0.9954,0.9762,0.0062
+RandomForest (default),0.9561,0.9512,0.9286,0.9398,0.9937,0.9286,0.1802
+GradientBoosting,0.9561,0.9744,0.9048,0.9383,0.9907,0.9048,0.3687
+RandomForest (optimized),0.9561,0.9512,0.9286,0.9398,0.9937,0.9286,0.1635

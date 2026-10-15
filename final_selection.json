@@ -1,0 +1,14 @@
+{
+  "selected_model": "LogisticRegression",
+  "primary_criterion": "malignant F1 on held-out test set; tie-breakers ROC-AUC and malignant recall",
+  "test_set_metrics": {
+    "Model": "LogisticRegression",
+    "Accuracy": 0.9825,
+    "Precision (malignant)": 0.9762,
+    "Recall (malignant)": 0.9762,
+    "F1 (malignant)": 0.9762,
+    "ROC-AUC": 0.9954,
+    "Malignant Recall": 0.9762,
+    "Fit Time (s)": 0.0062
+  }
+}
